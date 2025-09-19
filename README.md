@@ -1,0 +1,2 @@
+Lab 2: Learn how to use GitHub Wrokflows to automatically test and upload code
+[![Simple CI/CD Workflow](https://github.com/B3P15/CSC-4523-Lab-2/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/B3P15/CSC-4523-Lab-2/actions/workflows/ci-cd.yml)
